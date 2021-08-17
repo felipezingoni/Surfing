@@ -1,0 +1,36 @@
+.banner {
+	height: 500px;
+	width: 1000px;
+	background-image: linear-gradient;
+	background-position: center center;
+	padding: 0px;
+	color: white;
+	background-color: black;
+	top: 200px;
+	right: 200px;
+
+}
+
+.titulo{
+    text-align: center;
+    color: black;
+    margin: 0 auto;
+    position: absolute;
+    left: 90px;
+    top: 150px;
+    font-size: 100px;
+    letter-spacing: 4px;
+
+
+}
+
+.parafo {
+	position: absolute;
+	text-align: left;
+	margin: 0 auto;
+	color: white;
+    left: 90px;
+    top: 290px;
+    font-size: 15px;
+
+}
